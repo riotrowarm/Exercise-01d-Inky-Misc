@@ -2,7 +2,7 @@
 
 # Robert Armentrout
 
-# RiotRowarmen
+# Riotrowarmen
 
 MIT License
 
